@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WebApplication1\\WebApplicationMVCTemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA946BB7-439F-449B-A5D7-17084D4727FB}|WebApplicationMVCTemplate\\WebApplicationMVCTemplate.csproj|c:\\webapplication1\\webapplicationmvctemplate\\webapplicationmvctemplate\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA946BB7-439F-449B-A5D7-17084D4727FB}|WebApplicationMVCTemplate\\WebApplicationMVCTemplate.csproj|solutionrelative:webapplicationmvctemplate\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\WebApplication1\\WebApplicationMVCTemplate\\WebApplicationMVCTemplate\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplicationMVCTemplate\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\WebApplication1\\WebApplicationMVCTemplate\\WebApplicationMVCTemplate\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplicationMVCTemplate\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T05:37:01.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

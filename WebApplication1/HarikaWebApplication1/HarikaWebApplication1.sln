@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarikaWebApplication1", "HarikaWebApplication1\HarikaWebApplication1.csproj", "{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CE952FF-2BA9-4F67-9748-D4C1B981B220}
+	EndGlobalSection
+EndGlobal

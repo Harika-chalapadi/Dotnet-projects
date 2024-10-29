@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|c:\\webapplication1\\codefirstappwith2tables\\codefirstappwith2tables\\models\\tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|solutionrelative:codefirstappwith2tables\\models\\tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|c:\\webapplication1\\codefirstappwith2tables\\codefirstappwith2tables\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|solutionrelative:codefirstappwith2tables\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|c:\\webapplication1\\codefirstappwith2tables\\codefirstappwith2tables\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|solutionrelative:codefirstappwith2tables\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|c:\\webapplication1\\codefirstappwith2tables\\codefirstappwith2tables\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|solutionrelative:codefirstappwith2tables\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|c:\\webapplication1\\codefirstappwith2tables\\codefirstappwith2tables\\views\\article\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|solutionrelative:codefirstappwith2tables\\views\\article\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|c:\\webapplication1\\codefirstappwith2tables\\codefirstappwith2tables\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|solutionrelative:codefirstappwith2tables\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|c:\\webapplication1\\codefirstappwith2tables\\codefirstappwith2tables\\views\\article\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|solutionrelative:codefirstappwith2tables\\views\\article\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|c:\\webapplication1\\codefirstappwith2tables\\codefirstappwith2tables\\views\\article\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|solutionrelative:codefirstappwith2tables\\views\\article\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|c:\\webapplication1\\codefirstappwith2tables\\codefirstappwith2tables\\views\\article\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|solutionrelative:codefirstappwith2tables\\views\\article\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|c:\\webapplication1\\codefirstappwith2tables\\codefirstappwith2tables\\migrations\\tutorialdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|solutionrelative:codefirstappwith2tables\\migrations\\tutorialdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|c:\\webapplication1\\codefirstappwith2tables\\codefirstappwith2tables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|solutionrelative:codefirstappwith2tables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|c:\\webapplication1\\codefirstappwith2tables\\codefirstappwith2tables\\repository\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|solutionrelative:codefirstappwith2tables\\repository\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|c:\\webapplication1\\codefirstappwith2tables\\codefirstappwith2tables\\repository\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|solutionrelative:codefirstappwith2tables\\repository\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|c:\\webapplication1\\codefirstappwith2tables\\codefirstappwith2tables\\migrations\\20241023040505_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|solutionrelative:codefirstappwith2tables\\migrations\\20241023040505_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|c:\\webapplication1\\codefirstappwith2tables\\codefirstappwith2tables\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48B113FE-A9DA-47C4-B1A2-377C3E75F23F}|CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables.csproj|solutionrelative:codefirstappwith2tables\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "CodeFirstAppWith2Tables\\Models\\Article.cs",
+              "ToolTip": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Models\\Article.cs",
+              "RelativeToolTip": "CodeFirstAppWith2Tables\\Models\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:09:08.37Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tutorial.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Models\\Tutorial.cs",
+              "RelativeDocumentMoniker": "CodeFirstAppWith2Tables\\Models\\Tutorial.cs",
+              "ToolTip": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Models\\Tutorial.cs",
+              "RelativeToolTip": "CodeFirstAppWith2Tables\\Models\\Tutorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:19:13.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstAppWith2Tables\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CodeFirstAppWith2Tables\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T12:01:46.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Views\\Article\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstAppWith2Tables\\Views\\Article\\Delete.cshtml",
+              "ToolTip": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Views\\Article\\Delete.cshtml",
+              "RelativeToolTip": "CodeFirstAppWith2Tables\\Views\\Article\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T11:46:01.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Views\\Article\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstAppWith2Tables\\Views\\Article\\Edit.cshtml",
+              "ToolTip": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Views\\Article\\Edit.cshtml",
+              "RelativeToolTip": "CodeFirstAppWith2Tables\\Views\\Article\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T11:45:08.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Views\\Article\\Create.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstAppWith2Tables\\Views\\Article\\Create.cshtml",
+              "ToolTip": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Views\\Article\\Create.cshtml",
+              "RelativeToolTip": "CodeFirstAppWith2Tables\\Views\\Article\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T11:40:16.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Views\\Article\\Details.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstAppWith2Tables\\Views\\Article\\Details.cshtml",
+              "ToolTip": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Views\\Article\\Details.cshtml",
+              "RelativeToolTip": "CodeFirstAppWith2Tables\\Views\\Article\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T11:38:58.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Views\\Article\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstAppWith2Tables\\Views\\Article\\Index.cshtml",
+              "ToolTip": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Views\\Article\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstAppWith2Tables\\Views\\Article\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T11:37:11.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TutorialDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Migrations\\TutorialDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CodeFirstAppWith2Tables\\Migrations\\TutorialDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Migrations\\TutorialDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CodeFirstAppWith2Tables\\Migrations\\TutorialDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:17:48.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "CodeFirstAppWith2Tables\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "CodeFirstAppWith2Tables\\Controllers\\ArticleController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:10:34.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241023040505_m1.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Migrations\\20241023040505_m1.cs",
+              "RelativeDocumentMoniker": "CodeFirstAppWith2Tables\\Migrations\\20241023040505_m1.cs",
+              "ToolTip": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Migrations\\20241023040505_m1.cs",
+              "RelativeToolTip": "CodeFirstAppWith2Tables\\Migrations\\20241023040505_m1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:05:05.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IArticleRepository.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Repository\\IArticleRepository.cs",
+              "RelativeDocumentMoniker": "CodeFirstAppWith2Tables\\Repository\\IArticleRepository.cs",
+              "ToolTip": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Repository\\IArticleRepository.cs",
+              "RelativeToolTip": "CodeFirstAppWith2Tables\\Repository\\IArticleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:02:04.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Repository\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "CodeFirstAppWith2Tables\\Repository\\ArticleRepository.cs",
+              "ToolTip": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Repository\\ArticleRepository.cs",
+              "RelativeToolTip": "CodeFirstAppWith2Tables\\Repository\\ArticleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:00:22.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstAppWith2Tables\\Program.cs",
+              "ToolTip": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\Program.cs",
+              "RelativeToolTip": "CodeFirstAppWith2Tables\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:46:06.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFirstAppWith2Tables\\appsettings.json",
+              "ToolTip": "C:\\WebApplication1\\CodeFirstAppWith2Tables\\CodeFirstAppWith2Tables\\appsettings.json",
+              "RelativeToolTip": "CodeFirstAppWith2Tables\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T11:46:02.626Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

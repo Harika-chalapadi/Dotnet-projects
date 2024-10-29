@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WebApplication1\\DbFirstApproachHarika\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6EABA1-80B9-477E-95BD-E0D5B185A5C2}|DbFirstApproachHarika.csproj|c:\\webapplication1\\dbfirstapproachharika\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A6EABA1-80B9-477E-95BD-E0D5B185A5C2}|DbFirstApproachHarika.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6EABA1-80B9-477E-95BD-E0D5B185A5C2}|DbFirstApproachHarika.csproj|c:\\webapplication1\\dbfirstapproachharika\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6EABA1-80B9-477E-95BD-E0D5B185A5C2}|DbFirstApproachHarika.csproj|solutionrelative:models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6EABA1-80B9-477E-95BD-E0D5B185A5C2}|DbFirstApproachHarika.csproj|c:\\webapplication1\\dbfirstapproachharika\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6EABA1-80B9-477E-95BD-E0D5B185A5C2}|DbFirstApproachHarika.csproj|solutionrelative:controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6EABA1-80B9-477E-95BD-E0D5B185A5C2}|DbFirstApproachHarika.csproj|c:\\webapplication1\\dbfirstapproachharika\\models\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6EABA1-80B9-477E-95BD-E0D5B185A5C2}|DbFirstApproachHarika.csproj|solutionrelative:models\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6EABA1-80B9-477E-95BD-E0D5B185A5C2}|DbFirstApproachHarika.csproj|c:\\webapplication1\\dbfirstapproachharika\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6EABA1-80B9-477E-95BD-E0D5B185A5C2}|DbFirstApproachHarika.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6EABA1-80B9-477E-95BD-E0D5B185A5C2}|DbFirstApproachHarika.csproj|c:\\webapplication1\\dbfirstapproachharika\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6EABA1-80B9-477E-95BD-E0D5B185A5C2}|DbFirstApproachHarika.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6EABA1-80B9-477E-95BD-E0D5B185A5C2}|DbFirstApproachHarika.csproj|c:\\webapplication1\\dbfirstapproachharika\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6EABA1-80B9-477E-95BD-E0D5B185A5C2}|DbFirstApproachHarika.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6EABA1-80B9-477E-95BD-E0D5B185A5C2}|DbFirstApproachHarika.csproj|c:\\webapplication1\\dbfirstapproachharika\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6EABA1-80B9-477E-95BD-E0D5B185A5C2}|DbFirstApproachHarika.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6EABA1-80B9-477E-95BD-E0D5B185A5C2}|DbFirstApproachHarika.csproj|c:\\webapplication1\\dbfirstapproachharika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6EABA1-80B9-477E-95BD-E0D5B185A5C2}|DbFirstApproachHarika.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6EABA1-80B9-477E-95BD-E0D5B185A5C2}|DbFirstApproachHarika.csproj|c:\\webapplication1\\dbfirstapproachharika\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6EABA1-80B9-477E-95BD-E0D5B185A5C2}|DbFirstApproachHarika.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\DbFirstApproachHarika\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\WebApplication1\\DbFirstApproachHarika\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:46:45.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\DbFirstApproachHarika\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Models\\Enrollment.cs",
+              "ToolTip": "C:\\WebApplication1\\DbFirstApproachHarika\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:46:23.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\DbFirstApproachHarika\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\WebApplication1\\DbFirstApproachHarika\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:45:56.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\DbFirstApproachHarika\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\WebApplication1\\DbFirstApproachHarika\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:44:55.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\DbFirstApproachHarika\\Controllers\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnrollmentsController.cs",
+              "ToolTip": "C:\\WebApplication1\\DbFirstApproachHarika\\Controllers\\EnrollmentsController.cs",
+              "RelativeToolTip": "Controllers\\EnrollmentsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:20:35.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\DbFirstApproachHarika\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\WebApplication1\\DbFirstApproachHarika\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:19:57.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\DbFirstApproachHarika\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\WebApplication1\\DbFirstApproachHarika\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:19:07.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\WebApplication1\\DbFirstApproachHarika\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\WebApplication1\\DbFirstApproachHarika\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T12:14:50.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\DbFirstApproachHarika\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\WebApplication1\\DbFirstApproachHarika\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:12:48.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UniversitydbContext.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\DbFirstApproachHarika\\Models\\UniversitydbContext.cs",
+              "RelativeDocumentMoniker": "Models\\UniversitydbContext.cs",
+              "ToolTip": "C:\\WebApplication1\\DbFirstApproachHarika\\Models\\UniversitydbContext.cs",
+              "RelativeToolTip": "Models\\UniversitydbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wBkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:12:39.285Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

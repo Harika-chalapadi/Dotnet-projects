@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WebApplication1\\HarikaWebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}|HarikaWebApplication1\\HarikaWebApplication1.csproj|c:\\webapplication1\\harikawebapplication1\\harikawebapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}|HarikaWebApplication1\\HarikaWebApplication1.csproj|solutionrelative:harikawebapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}|HarikaWebApplication1\\HarikaWebApplication1.csproj|c:\\webapplication1\\harikawebapplication1\\harikawebapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}|HarikaWebApplication1\\HarikaWebApplication1.csproj|solutionrelative:harikawebapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}|HarikaWebApplication1\\HarikaWebApplication1.csproj|c:\\webapplication1\\harikawebapplication1\\harikawebapplication1\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}|HarikaWebApplication1\\HarikaWebApplication1.csproj|solutionrelative:harikawebapplication1\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}|HarikaWebApplication1\\HarikaWebApplication1.csproj|c:\\webapplication1\\harikawebapplication1\\harikawebapplication1\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}|HarikaWebApplication1\\HarikaWebApplication1.csproj|solutionrelative:harikawebapplication1\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}|HarikaWebApplication1\\HarikaWebApplication1.csproj|c:\\webapplication1\\harikawebapplication1\\harikawebapplication1\\migrations\\20241016072638_empinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}|HarikaWebApplication1\\HarikaWebApplication1.csproj|solutionrelative:harikawebapplication1\\migrations\\20241016072638_empinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}|HarikaWebApplication1\\HarikaWebApplication1.csproj|c:\\webapplication1\\harikawebapplication1\\harikawebapplication1\\migrations\\employeedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}|HarikaWebApplication1\\HarikaWebApplication1.csproj|solutionrelative:harikawebapplication1\\migrations\\employeedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}|HarikaWebApplication1\\HarikaWebApplication1.csproj|c:\\webapplication1\\harikawebapplication1\\harikawebapplication1\\controllers\\employeemodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}|HarikaWebApplication1\\HarikaWebApplication1.csproj|solutionrelative:harikawebapplication1\\controllers\\employeemodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}|HarikaWebApplication1\\HarikaWebApplication1.csproj|c:\\webapplication1\\harikawebapplication1\\harikawebapplication1\\views\\employeemodels\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}|HarikaWebApplication1\\HarikaWebApplication1.csproj|solutionrelative:harikawebapplication1\\views\\employeemodels\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}|HarikaWebApplication1\\HarikaWebApplication1.csproj|c:\\webapplication1\\harikawebapplication1\\harikawebapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B2C8B2-5ACB-4842-A9AD-0FBF978CEAD4}|HarikaWebApplication1\\HarikaWebApplication1.csproj|solutionrelative:harikawebapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\HarikaWebApplication1\\HarikaWebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HarikaWebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\WebApplication1\\HarikaWebApplication1\\HarikaWebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HarikaWebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:51:27.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\WebApplication1\\HarikaWebApplication1\\HarikaWebApplication1\\Views\\EmployeeModels\\Create.cshtml",
+              "RelativeDocumentMoniker": "HarikaWebApplication1\\Views\\EmployeeModels\\Create.cshtml",
+              "ToolTip": "C:\\WebApplication1\\HarikaWebApplication1\\HarikaWebApplication1\\Views\\EmployeeModels\\Create.cshtml",
+              "RelativeToolTip": "HarikaWebApplication1\\Views\\EmployeeModels\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T09:51:39.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeModelsController.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\HarikaWebApplication1\\HarikaWebApplication1\\Controllers\\EmployeeModelsController.cs",
+              "RelativeDocumentMoniker": "HarikaWebApplication1\\Controllers\\EmployeeModelsController.cs",
+              "ToolTip": "C:\\WebApplication1\\HarikaWebApplication1\\HarikaWebApplication1\\Controllers\\EmployeeModelsController.cs",
+              "RelativeToolTip": "HarikaWebApplication1\\Controllers\\EmployeeModelsController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowBcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:26:13.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\HarikaWebApplication1\\HarikaWebApplication1\\Migrations\\EmployeeDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "HarikaWebApplication1\\Migrations\\EmployeeDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\WebApplication1\\HarikaWebApplication1\\HarikaWebApplication1\\Migrations\\EmployeeDBContextModelSnapshot.cs",
+              "RelativeToolTip": "HarikaWebApplication1\\Migrations\\EmployeeDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:57:18.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241016072638_EmpInit.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\HarikaWebApplication1\\HarikaWebApplication1\\Migrations\\20241016072638_EmpInit.cs",
+              "RelativeDocumentMoniker": "HarikaWebApplication1\\Migrations\\20241016072638_EmpInit.cs",
+              "ToolTip": "C:\\WebApplication1\\HarikaWebApplication1\\HarikaWebApplication1\\Migrations\\20241016072638_EmpInit.cs",
+              "RelativeToolTip": "HarikaWebApplication1\\Migrations\\20241016072638_EmpInit.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:26:38.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\WebApplication1\\HarikaWebApplication1\\HarikaWebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "HarikaWebApplication1\\appsettings.json",
+              "ToolTip": "C:\\WebApplication1\\HarikaWebApplication1\\HarikaWebApplication1\\appsettings.json",
+              "RelativeToolTip": "HarikaWebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T06:32:27.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDBContext.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\HarikaWebApplication1\\HarikaWebApplication1\\Models\\EmployeeDBContext.cs",
+              "RelativeDocumentMoniker": "HarikaWebApplication1\\Models\\EmployeeDBContext.cs",
+              "ToolTip": "C:\\WebApplication1\\HarikaWebApplication1\\HarikaWebApplication1\\Models\\EmployeeDBContext.cs",
+              "RelativeToolTip": "HarikaWebApplication1\\Models\\EmployeeDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:20:59.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\HarikaWebApplication1\\HarikaWebApplication1\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "HarikaWebApplication1\\Models\\EmployeeModel.cs",
+              "ToolTip": "C:\\WebApplication1\\HarikaWebApplication1\\HarikaWebApplication1\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "HarikaWebApplication1\\Models\\EmployeeModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:04:47.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\HarikaWebApplication1\\HarikaWebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "HarikaWebApplication1\\Program.cs",
+              "ToolTip": "C:\\WebApplication1\\HarikaWebApplication1\\HarikaWebApplication1\\Program.cs",
+              "RelativeToolTip": "HarikaWebApplication1\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:08:17.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

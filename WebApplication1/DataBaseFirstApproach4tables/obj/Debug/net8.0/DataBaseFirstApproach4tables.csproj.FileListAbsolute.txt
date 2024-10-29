@@ -1,0 +1,8 @@
+C:\WebApplication1\DataBaseFirstApproach4tables\obj\Debug\net8.0\DataBaseFirstApproach4tables.csproj.AssemblyReference.cache
+C:\WebApplication1\DataBaseFirstApproach4tables\obj\Debug\net8.0\DataBaseFirstApproach4tables.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApplication1\DataBaseFirstApproach4tables\obj\Debug\net8.0\DataBaseFirstApproach4tables.AssemblyInfoInputs.cache
+C:\WebApplication1\DataBaseFirstApproach4tables\obj\Debug\net8.0\DataBaseFirstApproach4tables.AssemblyInfo.cs
+C:\WebApplication1\DataBaseFirstApproach4tables\obj\Debug\net8.0\DataBaseFirstApproach4tables.csproj.CoreCompileInputs.cache
+C:\WebApplication1\DataBaseFirstApproach4tables\obj\Debug\net8.0\DataBaseFirstApproach4tables.MvcApplicationPartsAssemblyInfo.cache
+C:\WebApplication1\DataBaseFirstApproach4tables\obj\Debug\net8.0\DataBaseFirstApproach4tables.RazorAssemblyInfo.cache
+C:\WebApplication1\DataBaseFirstApproach4tables\obj\Debug\net8.0\DataBaseFirstApproach4tables.RazorAssemblyInfo.cs

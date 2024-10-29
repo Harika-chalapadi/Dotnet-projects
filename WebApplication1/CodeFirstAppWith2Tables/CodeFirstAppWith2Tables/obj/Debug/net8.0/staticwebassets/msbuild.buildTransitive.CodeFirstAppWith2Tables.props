@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CodeFirstAppWith2Tables.props" />
+</Project>

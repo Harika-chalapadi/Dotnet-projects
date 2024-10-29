@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HarikaWebApplication2.props" />
+</Project>

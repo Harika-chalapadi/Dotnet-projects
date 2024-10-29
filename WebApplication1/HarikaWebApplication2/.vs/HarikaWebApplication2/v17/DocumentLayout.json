@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WebApplication1\\HarikaWebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87DD3FD9-98B6-4BCC-A132-60EE9E917D3D}|HarikaWebApplication2\\HarikaWebApplication2.csproj|c:\\webapplication1\\harikawebapplication2\\harikawebapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DD3FD9-98B6-4BCC-A132-60EE9E917D3D}|HarikaWebApplication2\\HarikaWebApplication2.csproj|solutionrelative:harikawebapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DD3FD9-98B6-4BCC-A132-60EE9E917D3D}|HarikaWebApplication2\\HarikaWebApplication2.csproj|c:\\webapplication1\\harikawebapplication2\\harikawebapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87DD3FD9-98B6-4BCC-A132-60EE9E917D3D}|HarikaWebApplication2\\HarikaWebApplication2.csproj|solutionrelative:harikawebapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DD3FD9-98B6-4BCC-A132-60EE9E917D3D}|HarikaWebApplication2\\HarikaWebApplication2.csproj|c:\\webapplication1\\harikawebapplication2\\harikawebapplication2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DD3FD9-98B6-4BCC-A132-60EE9E917D3D}|HarikaWebApplication2\\HarikaWebApplication2.csproj|solutionrelative:harikawebapplication2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DD3FD9-98B6-4BCC-A132-60EE9E917D3D}|HarikaWebApplication2\\HarikaWebApplication2.csproj|c:\\webapplication1\\harikawebapplication2\\harikawebapplication2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DD3FD9-98B6-4BCC-A132-60EE9E917D3D}|HarikaWebApplication2\\HarikaWebApplication2.csproj|solutionrelative:harikawebapplication2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DD3FD9-98B6-4BCC-A132-60EE9E917D3D}|HarikaWebApplication2\\HarikaWebApplication2.csproj|c:\\webapplication1\\harikawebapplication2\\harikawebapplication2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DD3FD9-98B6-4BCC-A132-60EE9E917D3D}|HarikaWebApplication2\\HarikaWebApplication2.csproj|solutionrelative:harikawebapplication2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DD3FD9-98B6-4BCC-A132-60EE9E917D3D}|HarikaWebApplication2\\HarikaWebApplication2.csproj|c:\\webapplication1\\harikawebapplication2\\harikawebapplication2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DD3FD9-98B6-4BCC-A132-60EE9E917D3D}|HarikaWebApplication2\\HarikaWebApplication2.csproj|solutionrelative:harikawebapplication2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DD3FD9-98B6-4BCC-A132-60EE9E917D3D}|HarikaWebApplication2\\HarikaWebApplication2.csproj|c:\\webapplication1\\harikawebapplication2\\harikawebapplication2\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DD3FD9-98B6-4BCC-A132-60EE9E917D3D}|HarikaWebApplication2\\HarikaWebApplication2.csproj|solutionrelative:harikawebapplication2\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DD3FD9-98B6-4BCC-A132-60EE9E917D3D}|HarikaWebApplication2\\HarikaWebApplication2.csproj|c:\\webapplication1\\harikawebapplication2\\harikawebapplication2\\migrations\\20241017035839_prodinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DD3FD9-98B6-4BCC-A132-60EE9E917D3D}|HarikaWebApplication2\\HarikaWebApplication2.csproj|solutionrelative:harikawebapplication2\\migrations\\20241017035839_prodinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\HarikaWebApplication2\\HarikaWebApplication2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "HarikaWebApplication2\\Models\\Product.cs",
+              "ToolTip": "C:\\WebApplication1\\HarikaWebApplication2\\HarikaWebApplication2\\Models\\Product.cs",
+              "RelativeToolTip": "HarikaWebApplication2\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:38:39.577Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\HarikaWebApplication2\\HarikaWebApplication2\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "HarikaWebApplication2\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\WebApplication1\\HarikaWebApplication2\\HarikaWebApplication2\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "HarikaWebApplication2\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:02:36.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\HarikaWebApplication2\\HarikaWebApplication2\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "HarikaWebApplication2\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\WebApplication1\\HarikaWebApplication2\\HarikaWebApplication2\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "HarikaWebApplication2\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:01:49.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241017035839_ProdInit.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\HarikaWebApplication2\\HarikaWebApplication2\\Migrations\\20241017035839_ProdInit.cs",
+              "RelativeDocumentMoniker": "HarikaWebApplication2\\Migrations\\20241017035839_ProdInit.cs",
+              "ToolTip": "C:\\WebApplication1\\HarikaWebApplication2\\HarikaWebApplication2\\Migrations\\20241017035839_ProdInit.cs",
+              "RelativeToolTip": "HarikaWebApplication2\\Migrations\\20241017035839_ProdInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:58:40.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\WebApplication1\\HarikaWebApplication2\\HarikaWebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "HarikaWebApplication2\\appsettings.json",
+              "ToolTip": "C:\\WebApplication1\\HarikaWebApplication2\\HarikaWebApplication2\\appsettings.json",
+              "RelativeToolTip": "HarikaWebApplication2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T11:11:33.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\HarikaWebApplication2\\HarikaWebApplication2\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HarikaWebApplication2\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\WebApplication1\\HarikaWebApplication2\\HarikaWebApplication2\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "HarikaWebApplication2\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:08:50.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\HarikaWebApplication2\\HarikaWebApplication2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "HarikaWebApplication2\\Models\\Category.cs",
+              "ToolTip": "C:\\WebApplication1\\HarikaWebApplication2\\HarikaWebApplication2\\Models\\Category.cs",
+              "RelativeToolTip": "HarikaWebApplication2\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:04:26.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WebApplication1\\HarikaWebApplication2\\HarikaWebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "HarikaWebApplication2\\Program.cs",
+              "ToolTip": "C:\\WebApplication1\\HarikaWebApplication2\\HarikaWebApplication2\\Program.cs",
+              "RelativeToolTip": "HarikaWebApplication2\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:28:17.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
